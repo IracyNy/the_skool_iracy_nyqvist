@@ -1,0 +1,8 @@
+SET LOADFORMAT CSV
+SET LOAD SCAN_ROWS 100000
+
+LOAD TABLE ansokningar 'ansokningar_2025.csv' NEW
+
+COMMIT;
+EXIT;
+
