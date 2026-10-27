@@ -60,3 +60,6 @@ Technical Operations Specialist och Game Programmer Specialization har flest bev
 
 ![Beviljade platser](resultat_beviljade_platser.png)
 
+## Användning av LLM
+Jag har använt LLM som bollplank för att förstå vissa SQL-koncept och felsöka felmeddelanden. All kod är dock skriven och förstådd av mig.
+
